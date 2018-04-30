@@ -1,0 +1,19 @@
+{
+  "name": "hexo-tag-chat",
+  "dependencies": {},
+  "deprecated": false,
+  "description": "chat-tag plugin for Hexo.",
+  "keywords": [
+    "hexo",
+    "tag",
+    "chat",
+    "blog"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu-song/hexo-tag-chat.git"
+  },
+  "version": "0.0.1"
+}
